@@ -4,7 +4,7 @@
 
 Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the Brainrot game with flawless compatibility and precision tools tailored for ultimate control.
 
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/ekYurBcMnv)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/ekYurBcMnv) [![Youtube](https://img.shields.io/badge/Youtube-Click-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Qtniw3j4YZY)
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the
 
   ![](https://github.com/koalesanajlepsze/Steal-a-Brainrot-Script/blob/main/pic/2.png)
 
-  (https://www.youtube.com/watch?v=Qtniw3j4YZY)
+  [![Youtube](https://img.shields.io/badge/Youtube-Click-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Qtniw3j4YZY)
 </div>
 
 ## ⚙ Features
@@ -29,5 +29,5 @@ Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the
 
 💬 Have questions or need support? Join our active Discord community:
 
-[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/ekYurBcMnv)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.gg/ekYurBcMnv) [![Youtube](https://img.shields.io/badge/Youtube-Click-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=Qtniw3j4YZY)
 
