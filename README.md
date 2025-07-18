@@ -22,8 +22,8 @@ Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the
 * **Teleport to Base** - Instantly transport your character to the nearest Base locations or spawn points, ensuring you never miss a valuable item.
 * **ESP (Player)** - Renders outlines and distance markers for Brainrot items, collectibles, and other players through walls, providing full situational awareness.
 * **Anti-Invisible Mode** - Reveals the location of players who are currently invisible.
-* **Anti-Beelauncher & Anti-BoogieBomb**
-* **Rejoin server button**
+* **Anti-Beelauncher & Anti-BoogieBomb** - Bypasses all of Beelauncher and Boogie bomb effects.
+* **Rejoin server button** - Rejoins the current server you are in.
 
 <div align="center">
 
