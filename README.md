@@ -8,7 +8,7 @@ Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the
 
 <div align="center">
 
-  ![](https://github.com/koalesanajlepsze/Steal-a-Brainrot-Script/blob/main/pic/1.png)
+  ![](https://github.com/koalesanajlepsze/Steal-a-Brainrot-Script/blob/main/pic/5.png)
 
   ![](https://github.com/koalesanajlepsze/Steal-a-Brainrot-Script/blob/main/pic/3.png)
 
