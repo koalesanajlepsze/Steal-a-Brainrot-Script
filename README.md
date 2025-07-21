@@ -24,8 +24,8 @@ Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the
 * **Anti-Invisible Mode** - Reveals the location of players who are currently invisible.
 * **Anti-Beelauncher & Anti-BoogieBomb** - Bypasses all of Beelauncher and Boogie bomb effects.
 * **Rejoin server button** - Rejoins the current server you are in.
-* **Tp to roof**
-* **Speed boost**
+* **Tp to roof** - Teleport to the roof of the base.
+* **Speed boost** - Increases character speed.
 
 <div align="center">
 
