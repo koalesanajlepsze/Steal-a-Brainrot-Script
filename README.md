@@ -29,7 +29,7 @@ Unlock the power of our Steal a Brainrot Script for Roblox in 2025. Dominate the
 
 <div align="center">
 
-🕵️ Current status: ✅ Undetected |️ 🛡 Bypass: ✅ Yes - 
+🕵️ Current status: ✅ Undetected |️ 🛡 Bypass: ✅ Yes
 
 </div>
 
